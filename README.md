@@ -1,4 +1,4 @@
-<h2> Hi 👋, I'm Mohanasundaram Jemini(@mohanasundaramjemini) 
+<h2> Hi 👋, I'm Mohanasundaram Jemini 
 
 <a href="https://www.linkedin.com/in/mohanasundaramjemini/">
   <img align="right" alt="Mohanasundaram Jemini - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
@@ -14,7 +14,7 @@
 
 ```js
 
-document.write("Mohanasundaram Jemini");
+document.write("@mohanasundaramjemini");
 
 var status = 
 { 
