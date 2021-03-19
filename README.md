@@ -24,7 +24,7 @@ var status =
 
 const skills = 
 {
-  languages :[PHP, Javascript, Html, CSS, Bash, IoT],
+  languages :[Javascript, PHP, Html, CSS, Bash, IoT],
   
   ide       :[Vs Code, Android Studio, Eclipse],
   
