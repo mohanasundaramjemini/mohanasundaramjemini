@@ -14,7 +14,7 @@
 
 ```js
 
-document.write("@mohanasundaramjemini");
+document.write("Mohanasundaram Jemini");
 
 var status = 
 { 
