@@ -14,7 +14,7 @@
 
 ```js
 
-document.write("Hello World");
+document.write("Mohanasundaram Jemini");
 
 var status = 
 { 
