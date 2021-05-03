@@ -1,6 +1,6 @@
 <h2> Hi 👋, I'm Mohanasundaram Jemini 
 
-<a href="https://www.linkedin.com/in/mohanasundaramjemini/">
+<a href="https://www.linkedin.com/in/mohanasundaramjemini/" tager="_blank">
   <img align="right" alt="Mohanasundaram Jemini - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
 <!---<a href="https://www.instagram.com/mohanjemini">
