@@ -3,9 +3,9 @@
 <a href="https://www.linkedin.com/in/mohanasundaramjemini/">
   <img align="right" alt="Mohanasundaram Jemini - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
-<a href="https://www.instagram.com/mohanjemini">
+<!---<a href="https://www.instagram.com/mohanjemini">
   <img align="right" alt="Mohanasundaram Jemini - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a>
+</a>-->
 </h2>
 
 <p align="center">
