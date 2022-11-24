@@ -18,8 +18,8 @@ document.write("Mohanasundaram Jemini");
 
 var status = 
 { 
-  learning : [ReactJs, Redux],
-  interests: [Research, Open Source Contribution]
+  learning : [React Native, ReactJs],
+  interests: [Research, Music]
 }
 
 const skills = 
@@ -28,7 +28,7 @@ const skills =
   
   ide       :[Vs Code, Android Studio, Eclipse],
   
-  libraries :[Jquery, React],
+  libraries :[Jquery, ReactJS],
   
   frameworks:[Bootstrap, Meteor, Node, AngularJs, Codeigniter],
   
